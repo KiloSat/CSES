@@ -1,5 +1,0 @@
-number = int(input(''))
-string = input('')
-arr = list(map(int,string.strip().split()))
-total = int(number*(number+1)/2)
-print(total-sum(arr))
